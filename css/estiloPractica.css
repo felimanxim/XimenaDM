@@ -1,0 +1,57 @@
+@font-face{
+	font-family: Marseline;
+	src:url(../fonts/Marseline.ttf);
+}
+body{
+	margin: 0;
+	
+}
+
+p{
+	padding-left: 60px;
+}
+
+header{
+	
+	padding: 1px;/*espacio entre el contenido o elemento*/
+	font-family: "Century Gothic";/*color de conjunto de opciones*/
+	
+	margin: 0;
+	text-align: center;
+
+
+}
+h1{
+	background-color: #71DCE5;/*color de fondo*/
+	padding: 20px;
+		font-family: Marseline;
+		color: white;/*color de letra*/
+		font-size: 90px;/*tamaño de letra*/
+		margin: 0;
+
+}
+
+#Consejos{
+font-family: "Century Gothic";
+		font-size: 30px;
+		color: #2980B9;
+		text-align: left;
+		padding-left: 55px;
+		padding-right: 25px;
+
+
+}
+article{
+	text-align: justify;
+	padding-left: 50px;
+	padding-right: 80px;
+
+}
+
+footer{
+	clear: both; /*limpia float*/
+	background-color: #71DCE5;;
+	padding: 30px;
+	text-align: center; /*centar cont*/
+
+}

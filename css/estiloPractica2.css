@@ -1,0 +1,46 @@
+
+body{
+	margin: 0px;
+}
+ header{
+ 	padding: 1px;
+ 	font-family: Times New Roman;
+ 	font-size: 32px;
+ 	margin: 0px;
+ 	background-color: #FFB6B9;
+ 	text-align: center;
+ }
+ h2{
+ 	font-family: Arial;
+	font-size: 20px;
+	color: #2980B9;
+	text-align: center;
+
+ }
+
+img{
+	float: left;
+}
+
+h3{
+	font-size: 30px;
+	font-family: Garamond;
+	color: #F67280;
+	
+
+}
+p{
+	font-family: Arial;
+	font-size: 20px;
+	color: #2980B9;
+	text-align: justify;
+	padding: 10px;
+}
+footer{
+	background-image: url(../img/pastel.jpg); 
+	text-align:left;
+	padding: 30px;
+	color: #F67280;
+
+
+}
